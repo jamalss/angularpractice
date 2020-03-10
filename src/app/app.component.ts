@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { Paragraph3 } from './practicers';
 
 
 @Component({
@@ -16,7 +15,7 @@ export class AppComponent {
   paragraph2 = 'Lorem ipsum ipsum lorem. Therum bereaum fom home some come soon.There are these that they stray say. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.';
   
   subtitle3 = 'Practicing and me';
-  paragraph3: Paragraph3 = {
+  paragraph3 = {
 	id: 1,
 	name: 'Practicer',
 	details: 'Lorem ipsum ipsum lorem. Therum bereaum fom home some come soon.Then there was one whom toumb doom room.There are these that they stray say.'
